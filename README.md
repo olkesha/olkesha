@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**olkesha/olkesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**olkesha/olkesha** is a ✨ _special_ ✨ repository that will tell you a little about me.
 
 Here are some ideas to get you started:
 
